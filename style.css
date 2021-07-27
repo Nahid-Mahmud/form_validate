@@ -98,3 +98,8 @@ body {
   visibility: visible;
   color: red;
 }
+@media screen and (max-width: 1000px) {
+  .container {
+    margin: auto 10px;
+  }
+}
