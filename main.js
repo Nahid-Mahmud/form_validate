@@ -1,4 +1,4 @@
-console.log("hello");
+// console.log("hello");
 
 const form = document.getElementById('form');
 const username = document.getElementById('username');
